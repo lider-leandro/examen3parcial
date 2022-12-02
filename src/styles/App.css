@@ -1,0 +1,45 @@
+.App{
+    display: flex;
+    width: 144px;
+    height: 186px;
+    background-color: #414865;
+    justify-content: center;
+    align-content: center;
+    padding-top: 0px;
+    margin-top: 0px;
+    border-radius: 10px 30px 10px 30px;
+}
+.cajafooter{
+    margin-top: -20px;
+    padding-top: 0px;
+}
+.fondo1{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.fondoletras{
+    position: absolute;
+    color: white;
+    margin-top: 115px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.fondoletras h2{
+    font-size: 15px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.fondoletras p{
+    font-size: 13px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.boton{
+    position: absolute;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-top: 80px;
+    margin-left: 85px;
+    background-color: white;
+    border: white;
+}
